@@ -1,10 +1,14 @@
 # Chocolate Peanuts
 
-This Repo contains my data of 713 colored chocolate peanuts of four different brands (m&m, ja!, Chateau, Mister Choc). I've collected information like 
+This repository contains my collected data of 713 colored chocolate peanuts from four different brands (m&m, ja!, Chateau, Mister Choc). Each brand is represented by ~400g colored chocolate peanuts. 
+
+I've collected information like 
 - color
 - weight in gramm
-- length in milimeter
-- width in milimeter
+- length in millimetre
+- width in millimetre
 - brand
 
-Besides that I did a little analysis about the data using the ggpairs-function.
+This data can be used for analysis exercieses or to train supervised machine learning algorithm, like e.g. a decision tree. 
+
+Have Fun! 
