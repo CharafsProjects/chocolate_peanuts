@@ -12,3 +12,5 @@ I've collected information like
 This data can be used for analysis exercises or to train supervised machine learning algorithm, like e.g. a decision tree. 
 
 Have Fun! 
+
+![Analysis](/Analysis.png?raw=true "Analysis of n=713 colored chocolate peanuts from four different brands (in R)")
