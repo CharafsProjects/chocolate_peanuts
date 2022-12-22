@@ -13,4 +13,4 @@ This data can be used for analysis exercises or to train supervised machine lear
 
 Have Fun! 
 
-![Analysis](/Analysis peanuts.png?raw=true "Analysis of n=713 colored chocolate peanuts from four different brands (in R)")
+![Analysis](/Analysis.png?raw=true "Analysis of n=713 colored chocolate peanuts from four different brands (in R)")
